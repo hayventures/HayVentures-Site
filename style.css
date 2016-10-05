@@ -1691,7 +1691,7 @@ table {
     text-shadow: 1px 1px 0 #367cb8, 2px 2px 0 #367cb8
 }
 body {
-    background: #6feadd url(/images/hero-bg.jpg) center top no-repeat fixed;
+    background: #6feadd url(images-1.jpg) center top no-repeat fixed;
     background-size: cover;
     color: white;
     font-size: 1em
